@@ -1,6 +1,6 @@
 # A lineageos archive
 
-Foobar is a Python library for dealing with word pluralization.
+For more please see https://github.com/biop0765/lineageosbackup
 
 ## Releases
 
